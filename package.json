@@ -1,0 +1,21 @@
+{
+  "name": "shayokh-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HSBHasib/Shayokh-Portfolio-Server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/HSBHasib/Shayokh-Portfolio-Server/issues"
+  },
+  "homepage": "https://github.com/HSBHasib/Shayokh-Portfolio-Server#readme"
+}
