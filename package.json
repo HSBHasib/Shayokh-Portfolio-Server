@@ -1,21 +1,17 @@
 {
-  "name": "shayokh-server",
+  "name": "shayokh-portfolio-server",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Static JSON server for Md Shayokh Mondol's Academic Portfolio",
+  "main": "server.js",
   "scripts": {
+    "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/HSBHasib/Shayokh-Portfolio-Server.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
-  "bugs": {
-    "url": "https://github.com/HSBHasib/Shayokh-Portfolio-Server/issues"
-  },
-  "homepage": "https://github.com/HSBHasib/Shayokh-Portfolio-Server#readme"
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5"
+  }
 }
